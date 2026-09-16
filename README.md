@@ -1,5 +1,27 @@
-# 💫 About Me:
-# Hi there, I'm Ethan Fukutake! 👋<br><br>Computer Science graduate with experience in full-stack web development, data analysis, and building AI-powered tools. Passionate about creating clean backend systems, optimizing databases, and solving complex problems.<br><br>---<br><br>### 🚀 About Me<br><br>* 🎓 **Education:** B.S. in Computer Science from Northern Illinois University (GPA: 3.908)<br>* 💼 **Experience:** Former Junior Software Developer Analyst Intern at Harmonic Consulting<br>* 🛠️ **Current Focus:** Building full-stack Python tools, REST APIs, and RAG architectures<br>* 🏆 **Honors:** NIU Dean's List (7/8 semesters), NIU Merit Scholarship, PBPA Scholarship<br><br>---<br><br>### 📌 Featured Projects<br><br>* 🏋️ **Workout Dashboard & 1RM Optimizer:** Full-stack fitness tool using FastAPI, SQLite, and Streamlit featuring one-rep max calculations, set optimizations, and pytest unit coverage.<br>* 🏀 **NBA Rulebook RAG Assistant:** RAG pipeline built with ChromaDB, Gemini API, and Streamlit that parses rulebooks into 442 chunks, achieving 94% rule retrieval accuracy.<br>* 🎰 **Monte Carlo Blackjack Simulation:** Python engine that simulates 1,000,000 rounds of blackjack using 80+ strategy rules, paired with a Pandas analysis pipeline.
+# 💫 About Me
+
+Hi there, I'm Ethan Fukutake! 👋
+
+Computer Science graduate with experience in full-stack web development, data analysis, and building AI-powered tools. Passionate about creating clean backend systems, optimizing databases, and solving complex problems.
+
+---
+
+**🚀 About Me**
+
+- 🎓 **Education:** B.S. in Computer Science from Northern Illinois University (GPA: 3.908)
+- 💼 **Experience:** Former Junior Software Developer Analyst Intern at Harmonic Consulting
+- 🛠️ **Current Focus:** Building full-stack Python tools, REST APIs, and RAG architectures
+- 🏆 **Honors:** NIU Dean's List (7/8 semesters), NIU Merit Scholarship, PBPA Scholarship
+
+---
+
+**📌 Featured Projects**
+
+- 🏋️ **Workout Dashboard & 1RM Optimizer:** Full-stack fitness tool using FastAPI, SQLite, and Streamlit featuring one-rep max calculations, set optimizations, and pytest unit coverage.
+
+- 🏀 **NBA Rulebook RAG Assistant:** RAG pipeline built with ChromaDB, Gemini API, and Streamlit that parses rulebooks into 442 chunks, achieving 94% rule retrieval accuracy.
+
+- 🎰 **Monte Carlo Blackjack Simulation:** Python engine that simulates 1,000,000 rounds of blackjack using 80+ strategy rules, paired with a Pandas analysis pipeline.
 
 
 ## 🌐 Socials:
